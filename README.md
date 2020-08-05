@@ -1,4 +1,3 @@
-<h2># Plugin-Starter<h2><br>
+<h2>#RapportIt LCA Custom Post Type<h2><br>
 <hr>
-<p>FreshySites Plugin Starter - Template Repo</p>
-<a href="https://github.com/FreshyMichael/Plugin-Starter/generate">Use this template</a>
+<p>Custom Post Type for US Labor Condition Applications</p>
